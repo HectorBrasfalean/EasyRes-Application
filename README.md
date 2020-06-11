@@ -1,17 +1,19 @@
-# APV1920B
-## AP Valley 2019-2020  
+# AP Valley EasyRes
+Dit is het EasyRes project van het vak AP Valley voor 2019-2020 aan de AP Hogeschool Antwerpen.
 
-#### PWA:  
-[![Build Status](https://dev.azure.com/EasyRes/EasyRes/_apis/build/status/Angular-PWA?branchName=master)](https://dev.azure.com/EasyRes/EasyRes/_build/latest?definitionId=1&branchName=master)
+## Kadering project
+Eigen bedenking.
+Een systeem voor in een restaurant te reserveren en bestellen via een app. Vervolgens zullen de bestelde producten op een scherm weer gegeven worden in de keuken en achter de bar. Op het einde kan de klant ook gemakkelijk afrekenen vanuit de app.
 
-#### KeukenBarScherm
-[![Build Status](https://dev.azure.com/EasyRes/EasyRes/_apis/build/status/Angular-KeukenBarScherm?branchName=master)](https://dev.azure.com/EasyRes/EasyRes/_build/latest?definitionId=3&branchName=master)
+### Gebruikte Technologieën
+- Angular 8
+- ASP .NET Core 2.2
+- Entity Framework
+- Azure
+- Azure AD B2C
+- Azure DevOps
 
-#### API:
-[![Build Status](https://dev.azure.com/EasyRes/EasyRes/_apis/build/status/ASP.Net-API?branchName=master)](https://dev.azure.com/EasyRes/EasyRes/_build/latest?definitionId=2&branchName=master)
-
-### EasyRes
-
+### Gemaakt door:
 * Product Owner: Davy Cools  
 * Scrum Master: Jens Peeters  
 * Developer: Hector Brasfalean  
